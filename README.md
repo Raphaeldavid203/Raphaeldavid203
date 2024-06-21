@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I am a passionate frontend developer from India, dedicated to crafting engaging and efficient digital solutions. My expertise spans across HTML5, CSS3, Python, and JavaScript, leveraging both creative design and technical skills to deliver innovative user experiences.
+I am a current student at UCL, where I'm pursuing a Bachelor of Arts and Sciences with a focus on statistics, mathematics, and computer science. My passion for the sciences is matched by my enthusiasm for entrepreneurship, fostering a unique interdisciplinary profile that bridges rigorous analytical thinking with innovative business strategies.
 
 ## 🔭 Current Projects
 
