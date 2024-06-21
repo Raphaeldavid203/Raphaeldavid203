@@ -38,8 +38,6 @@ If you're interested in collaborating, learning more, or wish to provide feedbac
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 
-## 📄 Latest Blog Posts
 
-- [Innovations in Frontend Development](https://yourblog.com/post1)
 
 
