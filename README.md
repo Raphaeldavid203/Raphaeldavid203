@@ -13,7 +13,7 @@ I am currently working on several projects involving [Technologies or Fields], a
 ## 🚀 My Projects
 
 - **[All my univeristy project](https://github.com/Raphaeldavid203/University-Projects)** - Brief description of the project.
-- **[Project Name 2](https://github.com/yourusername/projectname2)** - Brief description of the project.
+- **[Quantatria Research Capital](https://raphaeldavid203.github.io/QRC/)** - Brief description of the project.
 - **[Project Name 3](https://github.com/yourusername/projectname3)** - Brief description of the project.
 
 ## 🛠 Skills
