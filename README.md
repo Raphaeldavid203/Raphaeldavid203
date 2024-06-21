@@ -4,6 +4,12 @@
 
 I am a current student at UCL, where I'm pursuing a Bachelor of Arts and Sciences with a focus on statistics, mathematics, and computer science. My passion for the sciences is matched by my enthusiasm for entrepreneurship, fostering a unique interdisciplinary profile that bridges rigorous analytical thinking with innovative business strategies.
 
+## 🌟 What You will find
+
+On this GitHub, you’ll find a detailed showcase of my projects. These include university-related work in statistics, computer science, and mathematics, as well as collaborative group projects. Here, I chronicle both my current endeavors and past projects, reflecting a journey through academic challenges and creative solutions.
+
+If you're interested in collaborating, learning more, or wish to provide feedback on any projects, this GitHub is the perfect place for that. Please don't hesitate to contact me—let’s explore how we can work together and make impactful advancements.
+
 ## 🔭 Current Projects
 
 - **[University Projects](https://github.com/Raphaeldavid203/University-Projects)** - A compilation of my academic projects involving mathematics, statistics, quantitative analysis, and computer science.
