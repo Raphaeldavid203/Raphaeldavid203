@@ -13,7 +13,7 @@ If you're interested in collaborating, learning more, or wish to provide feedbac
 ## 🔭 Current Projects
 
 - **[University Projects](https://github.com/Raphaeldavid203/University-Projects)** - A compilation of my academic projects involving mathematics, statistics, quantitative analysis, and computer science.
-- **[Quantatria Research Capital](https://raphaeldavid203.github.io/QRC/)** - My initiative in applying quantitative research to develop advanced financial models.
+- **[Quantatria Research Capital](https://github.com/Raphaeldavid203/Quantatria)** - My initiative in applying quantitative research to develop advanced financial models.
 
 ## 🛠 Skills
 
